@@ -11,6 +11,7 @@
 ## 🚀 En ce moment
 
 - 🎓 **[khoubaib.com](https://www.khoubaib.com)** : parcours Bac français, Bac tunisien et système britannique, du Brevet à l'université
+- 📊 **[expert-comptable.tn](https://expert-comptable.tn)** : fiches, quiz et cas corrigés pour les stagiaires et les étudiants en expertise comptable (Tunisie, France, Maroc)
 - 🧮 Exercices corrigés pas à pas, vérifiés par calcul formel (sympy)
 - 🎬 Vidéos de présentation animées, générées en code (HTML + GSAP)
 - 📄 Séries et devoirs en PDF, composés avec un gabarit LaTeX maison
@@ -36,3 +37,4 @@ Mes expérimentations autour des LLM : [RAG](https://github.com/KhoubaibDriss/RA
 ## 📫 Me retrouver
 
 - 🌐 [khoubaib.com](https://www.khoubaib.com)
+- 📊 [expert-comptable.tn](https://expert-comptable.tn)
