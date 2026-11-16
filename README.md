@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Plateforme+%C3%A9ducative+%E2%80%94+Maths%2C+Physique%2C+Info;Logiciel+de+gestion+pour+les+PME+tunisiennes;Site+de+ressources+pour+%C3%A9tudiants+en+comptabilit%C3%A9;Exp%C3%A9rimentations+LLM+%3A+RAG%2C+agents%2C+garde-fous" alt="Ce que je construis" />
 </a>
 
-**Je suis développeur. Je conçois et je code des produits web : une plateforme éducative, un logiciel de gestion et un site de ressources en comptabilité.**
+**Je suis développeur. Je conçois et je code des produits web en mathématiques et en comptabilité.**
 
 [![khoubaib.com](https://img.shields.io/badge/khoubaib.com-0B2A5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.khoubaib.com)
 [![folio.tn](https://img.shields.io/badge/folio.tn-0F766E?style=for-the-badge&logo=googlesheets&logoColor=white)](https://folio.tn)
